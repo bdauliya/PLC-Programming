@@ -1,2 +1,2 @@
 # PLC-Programming
-PLC Programming to control the speed of motor.
+Rslogix 500 Ladder logic for speed control of an AC Motor.
